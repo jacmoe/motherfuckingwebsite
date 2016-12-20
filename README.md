@@ -8,3 +8,5 @@ Simply because I have grown fucking tired of stinking static site generators and
 To create a fucking website?
 
 Seriously!
+
+![thebestmotherfuckingwebsite](thebestmotherfuckingwebsite.png)
